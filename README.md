@@ -72,4 +72,4 @@ This project is under the [MIT license](LICENSE)
 
 
 
-Thank you for taking a look at my project! Made with :hearts:
+Thank you for taking a look at my project! Made with ♥
