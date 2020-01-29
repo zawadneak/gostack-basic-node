@@ -29,14 +29,14 @@ The challenge GitHub page can be seen [here](https://github.com/Rocketseat/bootc
 #### Changes and Implementations!
 Compare my changes to the [*bootcamp correction*](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/index.js)
 
-- Added a PUT and DELETE method for the projects tasks!
+- Added PUT and DELETE methods for projects tasks!
 - Added a middleware for checking the task index!
 - Instead of creating all the routes in the *index.js* file, I created a separate *routes.js* file for better project organization:
 <p align="center">
   <img src="http://i.imgur.com/EbC5tR6.png">
 </p>
 
-- Added a better log for the application, including the time of the request ant the method/URL, 
+- Added a better log for the application, including request method,duration and url, 
 insted of only the request count:
 
 ```javascript
